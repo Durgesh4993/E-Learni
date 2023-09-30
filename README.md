@@ -29,7 +29,6 @@ https://github.com/Durgesh4993/E-Learni/assets/98798977/2a2325ce-273a-4c63-b419-
 
 # One to One Confrense
 
-Uploading liveClass.mp4…
 
 
 
