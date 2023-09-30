@@ -89,11 +89,11 @@
           </li>
 
           <li class="navbar-item">
-            <a href="#" class="navbar-link" data-nav-link>One By One Classes</a>
+            <a href="/eduweb/liveClas" class="navbar-link" data-nav-link>One By One Classes</a>
           </li>
 
           <li class="navbar-item">
-            <a href="chatBot/index.php" class="navbar-link" data-nav-link>Ask Dourgth</a>
+            <a href="/eduweb/ChatApp/" class="navbar-link" data-nav-link>Ask Dourgth</a>
           </li>
 
           <li class="navbar-item">
@@ -858,7 +858,7 @@
 </button>
 <div class="chatbot">
     <div class="chatbot__header">
-        <h3 class="chatbox__title"><b>Learni 24/7</b>
+        <h3 class="chatbox__title"><b style="font-family: cursive; font-size:20px;">e-Learni 24/7</b>
         </h3>
         <span class="material-symbols-outlined"><i class="bi bi-x-lg"></i></span>
     </div>
@@ -887,10 +887,7 @@
     - #BACK TO TOP
   -->
 
-  <a href="#top" class="back-top-btn" aria-label="back top top" data-back-top-btn>
-    <ion-icon name="chevron-up" aria-hidden="true"></ion-icon>
-  </a>
-
+  <button onclick="topFunction()" id="myBtn" title="Go to top"><i id="top_icon" class="bi bi-arrow-up-circle"></i></button>
 
 
 
@@ -906,6 +903,28 @@
   -->
   <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
   <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+  <script>
+    // Get the button:
+let mybutton = document.getElementById("myBtn");
+
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+    mybutton.style.display = "block";
+  } else {
+    mybutton.style.display = "none";
+  }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+  document.body.scrollTop = 0; // For Safari
+  document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+}
+
+  </script>
 
 </body>
 
