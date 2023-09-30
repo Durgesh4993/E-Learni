@@ -13,9 +13,16 @@
 
 e-Learni helps make learning more accessible for learners around the globe. In education, it brings learning opportunities to previously disadvantaged groups. In business, it helps unite and train an increasingly global workforce. When learning materials are available online, learners can access their course material from anywhere and at any time using any device. A good quality LMS allows users to participate in e-Learni courses from desktop computers, smart phones, and tablets. This means that users can learn any time of day, whenever it’s most convenient for them—something classroom and face to face learning can’t compete with. Learners can also start a learning session on one device (say a smartphone while they are traveling) and continue the same course on another device (say a tablet or laptop at home in the evening), making it easier to fit learning into busy lives.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# Home Page
 
 https://github.com/Durgesh4993/E-Learni/assets/98798977/dfb22632-3661-4fc5-99f8-7f094cabbe4e
 
-https://github.com/Durgesh4993/E-Learni/assets/98798977/79763a29-dcb9-4d73-88b4-4ba53675727b
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Dught Settion
+
+https://github.com/Durgesh4993/E-Learni/assets/98798977/2a2325ce-273a-4c63-b419-0eb15da7f27f
+
 
