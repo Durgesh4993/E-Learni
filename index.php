@@ -116,7 +116,7 @@
           <span class="btn-badge">0</span>
         </button>
 
-        <a href="#" class="btn has-before">
+        <a href="./loginPage/index.html" class="btn has-before">
           <span class="span">Try for free</span>
 
           <ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
