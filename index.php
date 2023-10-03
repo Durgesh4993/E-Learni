@@ -81,11 +81,11 @@
           </li>
 
           <li class="navbar-item">
-            <a href="#about" class="navbar-link" data-nav-link>Lectures</a>
+            <a href="/eduweb/courses/index.html" class="navbar-link" data-nav-link>Lectures</a>
           </li>
 
           <li class="navbar-item">
-            <a href="#" class="navbar-link" data-nav-link>Notes</a>
+            <a href="/eduweb/quizzify/index.html" class="navbar-link" data-nav-link>Quiz</a>
           </li>
 
           <li class="navbar-item">
