@@ -585,7 +585,7 @@ body {
   color: var(--white);
   display: flex;
   align-items: center;
-  gap: 5px;
+  gap: 15px;
   line-height: 1;
   padding: 6px 8px;
   padding-block-end: 3px;

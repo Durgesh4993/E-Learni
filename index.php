@@ -66,7 +66,7 @@
 
         <div class="wrapper">
           <a href="#" class="logo">
-            <img src="./assets/images/logo.png" width="162" height="50" alt="Learni logo">
+            <img src="./assets/images/logo.png" width="102px" height="1050px" alt="Learni logo">
           </a>
 
           <button class="nav-close-btn" aria-label="close menu" data-nav-toggler>
