@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
+  
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -9,6 +10,7 @@
   <!-- 
     - primary meta tag
   -->
+  
   <title>Learni - The Most Effective Exchange Programme</title>
   <meta name="title" content="Learni - The Best Program to Enroll for Exchange">
   <meta name="description" content="This is an education html template made by codewithsadee">
@@ -16,12 +18,14 @@
   <!-- 
     - favicon
   -->
+  
   <link rel="shortcut icon" href="./favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
 
    <!-- 
     chatbot
    -->
+  
    <link rel="stylesheet" href="./chatBot/style.css">
 
   <!-- 
