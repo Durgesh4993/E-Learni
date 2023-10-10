@@ -10,7 +10,6 @@
     - primary meta tag
   -->
 
-  
   <title>Learni - The Most Effective Exchange Programme</title>
   <meta name="title" content="Learni - The Best Program to Enroll for Exchange">
   <meta name="description" content="This is an education html template made by codewithsadee">
