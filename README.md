@@ -37,6 +37,12 @@ https://github.com/Durgesh4993/E-Learni/assets/98798977/36e91f28-7504-45c7-b9c1-
 
 https://github.com/Durgesh4993/E-Learni/assets/98798977/6568dd14-9be6-4cf0-b56c-86bbc13baf7e
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Quiz section<img width="960" alt="10 10 2023_21 43 19_REC" src="https://github.com/Durgesh4993/E-Learni/assets/98798977/d4fd877b-f4d6-4405-aba4-4451323a3317">
+
+
+https://github.com/Durgesh4993/E-Learni/assets/98798977/d3451b8e-53af-437e-9f27-5fc444d3f01f
 
 
 
